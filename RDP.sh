@@ -26,6 +26,9 @@ sudo apt -y install gnome-terminal
 sudo apt -y install qbittorrent
 sudo apt install nload
 sudo adduser HCHAM chrome-remote-desktop
+sudo apt-get install xfce4-terminal
+sudo update-alternatives --config x-terminal-emulator
+
 } &> /dev/null &&
 printf "\nSetup Completed " >&2 ||
 printf "\nError Occured " >&2
