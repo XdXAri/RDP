@@ -19,7 +19,8 @@ sudo dpkg --install google-chrome-stable_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo apt -y install obs-studio
-sudo apt -y install firefox
+sudo apt -y install gnome-terminal
+
 sudo apt -y install qbittorrent
 sudo apt install nload
 sudo adduser HCHAM chrome-remote-desktop
