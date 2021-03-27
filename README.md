@@ -10,7 +10,7 @@ ii)  - Create New note book in file menu
 
 iii) - copy and paste the below code in cell
 
-! wget https://raw.githubusercontent.com/TeAMpIRaTEZ-IN/RDP/main/RDP.sh &> /dev/null
+! wget https://raw.githubusercontent.com/hicham0919/RDP/main/RDP.sh &> /dev/null
 
 ! chmod +x RDP.sh
 
